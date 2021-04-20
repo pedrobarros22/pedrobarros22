@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @pedrobarros22
+- 👀 I’m interested in trabalhar   como desenvolvedor     
+  -   🌱 I’m currently learning  html/css
+  - 💞️ I’m looking to collaborate na área de TI
+  - 📫 Perfil do LinkedIn: https://www.linkedin.com/in/pedro-barros-0ab40212a/
