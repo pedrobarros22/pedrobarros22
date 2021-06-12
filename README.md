@@ -1,5 +1,9 @@
-- 👋 Hi, I’m @pedrobarros22
-- 👀 I’m interested in trabalhar   como desenvolvedor     
-  -   🌱 I’m currently learning  html/css
-  - 💞️ I’m looking to collaborate na área de TI
-  - 📫 Perfil do LinkedIn: https://www.linkedin.com/in/pedro-barros-0ab40212a/
+Graduando | Análise e Desenvolvimento de Sistemas
+
+GitHub: @pedrobarros22
+Perfil do LinkedIn: https://www.linkedin.com/in/pedro-barros-0ab40212a/
+
+Interesse de atuação: Desenvolvedor/Requisitos/Analista     
+Conhecimento em: SAP ABAP | SAP BW
+Aprendendo: linguagem C | Web (html/css)
+
